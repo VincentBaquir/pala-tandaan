@@ -1,0 +1,132 @@
+body{
+	position:relative;
+	background-color:rgb(65, 47, 47);
+	background-color:#412f2f;
+	background-color:hsl(0, 28%, 25%);
+}
+.mainbody{
+	position:relative;
+	background-color:rgb(53, 39, 39);
+	background-color:#352727;
+	background-color:hsl(0, 26%, 21%);
+	margin-bottom:10px;
+	margin-top:10px;
+	margin-left:15px;
+	width:1300px;
+	height:1000px;
+}
+.best-seller{
+	position:relative;
+	background-color:rgb(26, 18, 18);
+	background-color:#1a1212;
+	background-color:hsl(0, 31%, 10%);
+	margin-bottom:10px;
+	margin-top:10px;
+	margin-left:60px;
+	width:1175px;
+	height:500px;
+}
+.new-arrivals{
+	position:relative;
+	background-color:rgb(26, 18, 18);
+	background-color:#1a1212;
+	background-color:hsl(0, 31%, 10%);
+	margin-bottom:10px;
+	margin-top:10px;
+	margin-left:60px;
+	width:1175px;
+	height:250px;
+}
+.contact-us{
+	position:relative;
+	background-color:rgb(26, 18, 18);
+	background-color:#1a1212;
+	background-color:hsl(0, 31%, 10%);
+	margin-bottom:10px;
+	margin-top:10px;
+	margin-left:60px;
+	width:1175px;
+	height:750px;
+}
+.text-bestseller{
+	position:relative;
+	font-family: "Rubik", cursive;
+	font-size: 30px;
+	color:white;
+	top:3%;
+	left:43%;
+}
+.text-newarrivals{
+	position:relative;
+	font-family: "Rubik", cursive;
+	font-size: 20px;
+	color:white;
+	top:3%;
+	left:5%;
+}
+.text-contact1{
+	position:relative;
+	font-family: "Rubik", cursive;
+	font-size: 25px;
+	color:white;
+	top:3%;
+	left:5%;
+}
+.contact-text1{
+	position:absolute;
+	left:25%;
+	top:15%;
+}
+.contact-text2{
+	position:absolute;
+	left:25%;
+	top:60%;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.img-logo{
+	margin-top:40px;
+	margin-left:50px;
+  width: 200px;
+  height: 150px;
+}
+.button-home{
+	font-family: "Rubik", cursive;
+	font-size: 20px;
+	color:white;
+	margin-left:50px;
+}
+.button-main{
+	position:absolute;
+	left:55%;
+	top:10%;
+}
+.img-bestseller{
+	margin-top:30px;
+	margin-left:60px;
+  width: 300px;
+  height: 400px;
+  border:5px solid white;
+}
+.img-new-arrivals{
+	margin-top:30px;
+	margin-left:60px;
+  width: 150px;
+  height: 150px;
+  border:5px solid white;
+}
+.img-contactclip{
+	margin-top:30px;
+	margin-left:60px;
+  width: 230px;
+  height: 200px;
+}
+.img-aboutclip{
+	margin-top:100px;
+	margin-left:40px;
+  width: 300px;
+  height: 200px;
+}
